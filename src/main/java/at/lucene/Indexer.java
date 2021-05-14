@@ -17,7 +17,6 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class Indexer {
-
   public static void main(String[] args) throws Exception {
 
     if (args.length != 2) {
